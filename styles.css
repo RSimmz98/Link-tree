@@ -46,7 +46,7 @@ header {
   box-shadow: rgb(28, 32, 93 / 24%) 0px 2px 8px 0px;
 }
  header > h1 {
-  dispay: inline-block;
+  display: inline-block;
   font-size: 0.8em;
   font-weight: bold;
   border-radius: 1em;
