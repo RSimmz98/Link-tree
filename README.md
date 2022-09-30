@@ -8,4 +8,4 @@ this is just a link tree to my socials and all
 <li>JS</li>
 </ol>
 
-#OPEN FOR COLABORATIONS
+
